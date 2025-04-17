@@ -1,0 +1,23 @@
+export default {
+    homepageTitle: 'About me',
+    homepageParagraph: 'Hey hey, I\'m Butch. I\'m currently 19 years old and studying at TCR to become a front-end web developer and web designer. I\'m passionate about creating clean, functional websites and improving the user experience in websites. I have experience with HTML/CSS, JavaScript, React, React Native, Tailwind, and a little Python. You can click on their respective logos to learn more about my experience with them.',
+    skillText: 'Things I can use',
+    homeProjectButton: 'You can click here to look at my projects',
+    projectPageHeader: 'My projects',
+    homePageImageText: 'I don\'t have any pictures of myself, so enjoy this carbonara',
+    projectPageSubHeader: 'I\'ve made more things than just these, these are just the ones I finished and am sort of proud of 〒▽〒',
+    projectButton: 'You can click here to look at my amazing, totally not dogshit code',
+    sorbetDescription: 'sorbet is a very simple game where you look at circles, press buttons and watch a number go up. There\'s a how to play screen so I\'m not gonna write that here. I basically just made this to learn how to work with React Native. Includes a timed mode, too.',
+    weatherAppDescription: 'Have you ever wanted to know the weather of any single place in the world and don\'t know how to use google? No? Well, now you can! I made this to learn how to use APIs and that\'s really about it.',
+    flashCardsDescription: 'Are you stupid as I am and don\'t know the capitals of the 20 countries included in this app? Well, no more! Educate yourself with these wonderful flashcards. I made this to learn how to use Tailwind. I know it doesn\'t look stellar, but to be fair I never used Tailwind before this.',
+    zooAppDescription: 'This app is a joke, please don\'t take anything on it seriously. I\'m pretty sure the kiwi page has the only actual factual information on it. I did learn how to use params with this, so I guess it wasn\'t a complete waste of time.',
+    skillHeaderText: 'My experience with',
+    htmlSkillDescription: 'I started learning HTML in 2023 when I began my studies at TCR. I\'ve used it in pretty much every project I\'ve made—except when working with React Native or Python. I like HTML because it\'s very simple and straightforward to use.',
+    cssSkillDescription: 'I mean, I couldn\'t have made anything if I didn\'t know how to use CSS. I\'ve enjoyed working with it ever since I learned it in 2023 at TCR, though lately, I\'ve been using Tailwind more often.',
+    jsSkillDescription: 'I really, really like JavaScript!! I\'ve liked it ever since I started learning it in 2023. The entire reason why I switched from learning back-end to learning front-end is because I wanted to learn JavaScript instead of PHP. Good language. 👍',
+    reactSkillDescription: 'I mean, I made this portfolio page in React, so I think it should be pretty clear I like using it. I think it\'t really convenient how it allows you to easily create and use components, like how I did on the projects page. I also like how you can just easily install packages like the React Router, and it uses JavaScript so that\'s also a plus. ',
+    rnSkillDescription: 'I don\'t have a lot of experience with React Native yet, but I\'ve had fun with the projects I\'ve made using it. I like how similar it is to React when it comes to components. The only things I\'m not a big fan of are the lack of HTML and how different the styling is from regular CSS.',
+    tailwindSkillDescription: 'I like Tailwind. I\'ve lately been using it more than regular CSS, and I think it\'s a lot more convenient and fast, but also more messy, since all the styling is written in the HTML.',
+    pythonSkillDescription: 'I don\'t have a lot of experience with Python, but I\'d like to learn more about it because I heard it\'s a very versatile language that can be used for a lot of things. I once made a Discord bot and Russian roulette using Python.',
+    skillDetailPageBackButton: 'Back to the homepage!!'
+}
