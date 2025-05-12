@@ -13,6 +13,12 @@ const Projects = () => {
             link: 'https://github.com/Butch-Smith/sorbet'
         },
         {
+            title: 'To-do app',
+            image: '../public/what.png',
+            description: t.toDoAppDescription,
+            link: 'https://github.com/Butch-Smith/to-do-app'
+        },
+        {
             title: 'Weather app',
             image: '../public/weather.png',
             description: t.weatherAppDescription,

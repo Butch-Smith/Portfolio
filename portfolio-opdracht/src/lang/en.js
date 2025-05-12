@@ -11,6 +11,7 @@ export default {
     weatherAppDescription: 'Have you ever wanted to know the weather of any single place in the world and don\'t know how to use google? No? Well, now you can! I made this to learn how to use APIs and that\'s really about it.',
     flashCardsDescription: 'Are you stupid as I am and don\'t know the capitals of the 20 countries included in this app? Well, no more! Educate yourself with these wonderful flashcards. I made this to learn how to use Tailwind. I know it doesn\'t look stellar, but to be fair I never used Tailwind before this.',
     zooAppDescription: 'This app is a joke, please don\'t take anything on it seriously. I\'m pretty sure the kiwi page has the only actual factual information on it. I did learn how to use params with this, so I guess it wasn\'t a complete waste of time.',
+    toDoAppDescription: 'Never wanna forget something ever again? Use this very easy to use to-do list application!!',
     skillHeaderText: 'My experience with',
     htmlSkillDescription: 'I started learning HTML in 2023 when I began my studies at TCR. I\'ve used it in pretty much every project I\'ve made—except when working with React Native or Python. I like HTML because it\'s very simple and straightforward to use.',
     cssSkillDescription: 'I mean, I couldn\'t have made anything if I didn\'t know how to use CSS. I\'ve enjoyed working with it ever since I learned it in 2023 at TCR, though lately, I\'ve been using Tailwind more often.',

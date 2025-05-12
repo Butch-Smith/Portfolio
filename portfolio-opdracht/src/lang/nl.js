@@ -11,6 +11,7 @@ export default {
     weatherAppDescription: 'Heb je ooit het weer van een plek op aarde weten en weet je niet hoe je google moet gebruiken? Nee? Nou, nu kan het! Ik heb dit gemaakt om te leren hoe ik APIs moet gebruiken, en dat is het.',
     flashCardsDescription: 'Ben je net zo dom als ik en weet je de hoofdsteden van de 20 landen in deze app niet? Niet meer! Leer wat bij met deze prachtige flashcards! Ik heb dit gemaakt om te leren hoe Tailwind werkt. Ik weet dat het er niet geweldig uit ziet, maar dit was de eerste keer dat ik Tailwind heb gebruikt.',
     zooAppDescription: 'Deze app is een grap, neem niets in deze app serieus. Volgens mij is is de kiwi pagina de enige pagina die echte correcte informatie heeft. Ik heb hiermee geleerd hoe ik params moet gebruiken, dus het was geen complete tijdverspilling.',
+    toDoAppDescription: 'Wil je nooit meer wat vergeten? Gebruik deze makkelijk te gebruiken to-do lijst applicatie!!',
     skillHeaderText: 'Mijn ervaring met',
     htmlSkillDescription: 'Ik ben in 2023 begonnen met het leren van HTML toen ik begon met mijn opleiding bij TCR. Ik heb het gebruikt in bijna elk project dat ik heb gemaakt—behalve als ik met React Native of Python werkte. Ik vind HTML fijn omdat het heel simpel en duidelijk is om te gebruiken.',
     cssSkillDescription: 'Ik bedoel, ik had niets kunnen maken als ik geen CSS kende. Ik vind het leuk om mee te werken sinds ik het leerde in 2023 bij TCR, al gebruik ik de laatste tijd vaker Tailwind.',
