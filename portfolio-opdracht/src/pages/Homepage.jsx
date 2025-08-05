@@ -54,13 +54,7 @@ const Homepage = () => {
         <Layout>
             <section className="w-full h-full flex flex-col justify-center items-center">
                 <div className="flex justify-center items-center gap-6 w-full">
-                    <div>
-                        <h3 className="text-xs pb-[1px] text-white">{t.homePageImageText}</h3>
-                        <div className="w-[400px] rounded-xl p-1 h-[500px] bg-gradient-to-br bg-indigo-500 from-pink-500">
-                            <img className="h-full bg-slate-800 rounded-xl" src="../public/pasta-carbonara_v.jpg" alt="me" />
-                        </div>
-                    </div>
-                    <div className="py-4 flex flex-col justify-center w-[50%]">
+                    <div className="py-4 flex flex-col justify-center w-[70%]">
                         <div className="mb-6">
                             <h1 className="text-white mb-4 text-4xl">{t.homepageTitle}</h1>
                             <p className="text-white text-xl">{t.homepageParagraph}</p>
