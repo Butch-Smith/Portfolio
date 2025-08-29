@@ -23,7 +23,7 @@ const Project = ({ title, description, image, link }) => {
                     </div>
                 </div>
                 :
-                //this is for when it's closed
+                //this is for when it's not
                 <div onClick={() => setIsOpen(!isOpen)} className="w-full rounded-xl mb-4 p-4 bg-slate-900 items-center text-white flex justify-between">
                     <h2 className="text-2xl">{title}</h2>
                     <AiFillCaretDown />
