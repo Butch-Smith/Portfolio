@@ -15,9 +15,11 @@ const Project = ({ title, description, image, link }) => {
                         <AiFillCaretUp />
                     </div>
                     <div className="flex gap-4">
-                        <img className="h-[180px] rounded-xl" src={image} alt="aaaaa" />
+                        {image &&
+                            <img className="h-[180px] rounded-xl" src={image} alt="aaaaa" />
+                        }
                         <div className="w-full flex flex-col justify-between">
-                            <p className="text-lg">{description}</p>
+                            <p className="text-lg min-h-[136px]">{description}</p>
                             <a className="p-2 rounded-full bg-gradient-to-r text-white text-lg bg-indigo-500 from-pink-500 text-center font-bold w-full" target="blank_" href={link}>{t.projectButton}</a>
                         </div>
                     </div>

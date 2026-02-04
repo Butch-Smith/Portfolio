@@ -7,6 +7,21 @@ const Projects = () => {
 
     const projects = [
         {
+            title: 'Encoder and also Decoder',
+            description: t.encoderAndDecoderDescription,
+            link: 'https://github.com/Butch-Smith/encoder-and-also-decoder'
+        },
+        {
+            title: 'The full grid thing package',
+            description: t.gridThingDescription,
+            link: 'https://github.com/Butch-Smith/Grid-thing'
+        },
+        {
+            title: 'VSRG without the R',
+            description: t.vsgDescription,
+            link: 'https://github.com/Butch-Smith/VSRG-without-the-R'
+        },
+        {
             title: 'sorbet',
             image: '../public/uglysorbetlogo.png',
             description: t.sorbetDescription,

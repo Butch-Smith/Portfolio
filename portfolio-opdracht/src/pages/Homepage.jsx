@@ -62,12 +62,12 @@ const Homepage = () => {
 
 
                         <div className="mb-6">
-                            <h2 className="text-lg text-white mb-1">{t.skillText}</h2>
-                            <div className="flex gap-4">
+                            <h2 className="text-xl text-white mb-1">{t.skillText}</h2>
+                            <div className="flex items-center gap-4">
                                 {
                                     skillData.map((skill) => (
                                         <Link to={`/skills/${skill.id}`}>
-                                            <img className="w-[70px] h-[70px]" src={skill.image} alt="" />
+                                            <img className="w-[70px]" src={skill.image} alt="" />
                                         </Link>
                                     ))
                                 }
