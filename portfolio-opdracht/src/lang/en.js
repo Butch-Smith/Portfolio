@@ -9,7 +9,7 @@ export default {
     "I've made more things than just these, these are just the ones I finished and am sort of proud of 〒▽〒",
   projectButton:
     "You can click here to look at my amazing, totally not dogshit code",
-  encoderAndDecoderDescription: "Have you ever wanted to convert text into a string of 0's, 1's and 2's, and then convert that string back into normal text? Yes? Then this is the app for you!! Encoder + and Decoder + also support numbers and most punctiations!! Based on the text in Pictured as Perfect by Frums",
+  encoderAndDecoderDescription: "Have you ever wanted to convert text into a string of 0's, 1's and 2's, and then convert that string back into normal text? Yes? Then this is the app for you!! Encoder+ and Decoder+ also support numbers and most punctiations!!",
   gridThingDescription: "Do you like mazes? Do you like solving mazes? Do you like making mazes? Do you like knowing if your maze is possible to solve or not? Me neither!! Please do still check this out, though!!",
   vsgDescription: "It's like a vertically scrolling rhythm game, just without the thing that makes it fun",
   sorbetDescription:

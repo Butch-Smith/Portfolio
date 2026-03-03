@@ -9,7 +9,7 @@ export default {
     "Ik heb meer dingen dan dit gemaakt, dit zijn gewoon de enige die af zijn en waar ik soort van trots op ben 〒▽〒",
   projectButton:
     "Klik hier om de kijken naar mijn geweldige, totaal niet dogshit code",
-  encoderAndDecoderDescription: "Heb je ooit tekst willen omzetten in een reeks nullen, enen en tweeën, en die reeks vervolgens weer terug willen omzetten naar normale tekst? Ja? Dan is dit de app voor jou!! Encoder+ en Decoder+ ondersteunen ook cijfers en de meeste leestekens!! Gebaseerd op de tekst in Pictured as Perfect van Frums",
+  encoderAndDecoderDescription: "Heb je ooit tekst willen omzetten in een reeks nullen, enen en tweeën, en die reeks vervolgens weer terug willen omzetten naar normale tekst? Ja? Dan is dit de app voor jou!! Encoder+ en Decoder+ ondersteunen ook cijfers en de meeste leestekens!!",
   gridThingDescription: "Hou je van doolhoven? Vind je het leuk om doolhoven op te lossen? Vind je het leuk om doolhoven te maken? Vind je het leuk om te weten of je doolhof oplosbaar is of niet? Ik ook niet!! Maar kijk er alsjeblieft alsnog naar!!",
   vsgDescription: "Het is een verticaal scrollend ritmespel, maar dan zonder alles dat het leuk maakt.",
   sorbetDescription:
